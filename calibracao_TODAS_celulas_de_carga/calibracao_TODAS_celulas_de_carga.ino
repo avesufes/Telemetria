@@ -27,7 +27,7 @@ float calibration_factor1 = 106000;
 float calibration_factor2 = 104000;
 float calibration_factor3 = 101500;
 float calibration_factor4 = 94500;
-float calibration_factor5 = 104000;
+float calibration_factor5 = 380000;
 
 float peso1;
 float peso2;
